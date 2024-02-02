@@ -1,5 +1,7 @@
 # Aiml
 chaf_tech_science_cmc
+
+
 MITBIH_PTB_dataset_CNN_Selection_of_layers file which is helpful for us to select the best layers with accuracy, so we need to try for PTB dataset and as well as for MITBIH dataset, AF- ReLU
 
 MITBIH_PTB_dataset_CNN_different _AF file which explains about the importande of different AFs for PTB and MITBIH dataset, which helpful for selecting top AFs for the final proposed CHAF
